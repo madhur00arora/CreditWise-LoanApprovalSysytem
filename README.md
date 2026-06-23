@@ -1,14 +1,11 @@
-# Intelligent Loan Approval Prediction System
-
-Project Overview
+## Project Overview
 
 SecureTrust Bank currently relies on a manual loan verification process where loan officers review applicants based on income, employment details, credit history, and supporting documents. This process is time-consuming, inconsistent, and prone to human bias.
 
 To address these challenges, this project develops a Machine Learning-based Loan Approval Prediction System that automates the evaluation of loan applications and predicts whether a loan should be Approved or Rejected before final human verification.
 
 
-
-Problem Statement
+## Problem Statement
 
 The bank faces two major challenges:
 
